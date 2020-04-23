@@ -1,0 +1,12 @@
+set tabstop=4
+syntax on " Syntax highlighting
+set showmatch " Shows matching brackets
+set ruler " Always shows location in file (line#)
+set smarttab " Autotabs for certain code
+set shiftwidth=4
+set backspace=indent,eol,start
+set bg=dark
+set nu
+filetype on
+filetype indent on
+set nocompatible " not comp with vi
