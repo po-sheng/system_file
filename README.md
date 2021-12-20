@@ -1,5 +1,5 @@
 # Introduction
-This is a repository contains all the configuration file that I need in linux environment
+This is a repository contains all the configuration files that I need in linux environment.
 
 # Usage
 
