@@ -1,3 +1,6 @@
+# Introduction
+This is a repository contains all the configuration file that I need in linux environment
+
 # Usage
 
 ### download "OceanicNext" .vimrc color schem
